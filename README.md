@@ -8,10 +8,21 @@
 - 😄 Pronomes: Ele/Dele
 - 👨🏽‍💻 Desenvolvo principalmente utilizando a linguagem de programação C# no back-end e uso a estrutura de desenvolvimento ASP.NET Core (MVC) com Razor para desenvolvimento web. Tenho também conhecimento em Java, JavaScript, HTML, CSS e Bootstrap.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=barrosjunior26&show_icons=true&theme=outrun#gh-dark-mode-only)](https://github.com/barrosjunior26/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=barrosjunior26&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/barrosjunior26/github-readme-stats#gh-light-mode-only)
 
-<div style="display: inline_block">
+<br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=barrosjunior26&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=barrosjunior26&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=barrosjunior26&show_icons=true" />
+</picture>
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Diniz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Diniz-AspNetCore" height="40" width="40" src="https://jayanttripathy.com/wp-content/uploads/2022/04/aspnetcoremvc-logo-150x150.png">
   <img align="center" alt="Diniz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
