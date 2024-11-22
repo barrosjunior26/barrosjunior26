@@ -2,7 +2,7 @@
 
 
 
-- 🔭 No momento estou trabalhando como Analista de Transportes
+- 🔭 No momento estou em busca de uma oportunidade na área de T.I
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no e-mail: barrosjunior26@outlook.com.br 
 - 😄 Pronomes: Ele/Dele
