@@ -1,40 +1,55 @@
-## Olá! 🙋🏽 Eu sou o Diniz Júnior.
+<h1 align="center">Olá! 🙋🏽 Sou o Diniz Júnior.</h1>
 
+###
 
-
-- 🔭 No momento estou em busca de uma oportunidade na área de T.I
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- 📫 Contate-me no e-mail: barrosjunior26@outlook.com.br 
-- 😄 Pronomes: Ele/Dele
-- 👨🏽‍💻 Desenvolvo principalmente utilizando a linguagem de programação C# no back-end e uso a estrutura de desenvolvimento ASP.NET Core (MVC) com Razor para desenvolvimento web. Tenho também conhecimento em Java, JavaScript, HTML, CSS e Bootstrap.
-
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barrosjunior26&show_icons=true&theme=radical)
-
-
-<div style="display: inline_block">
-  <img align="center" alt="Diniz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Diniz-AspNetCore" height="40" width="40" src="https://jayanttripathy.com/wp-content/uploads/2022/04/aspnetcoremvc-logo-150x150.png">
-  <img align="center" alt="Diniz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Diniz-SQLServer" height="30" width="30" src="https://zeenea.com/wp-content/uploads/2023/02/azure-sql-logo.png">
-  <img align="center" alt="Diniz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Diniz-Bootstrap" height="40" width="40" src="https://gitlab.com/uploads/-/system/project/avatar/40920009/bootstrap-logo.png">
-  <img align="center" alt="Diniz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  ##
-  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
 </div>
 
-<div><br>
-  <a href="https://www.youtube.com/@dinizjunior349" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/diniz_junior26/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/dinizjunior" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dinizribeirojunior26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diniz-ribeiro-455958207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/diniz-ribeiro-455958207/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/DinizJnior2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/dinizribeirojunior/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/dinizribeirodebarros/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=barrosjunior26&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=barrosjunior26&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barrosjunior26/barrosjunior26/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barrosjunior26/barrosjunior26/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barrosjunior26/barrosjunior26/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barrosjunior26/barrosjunior26/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barrosjunior26/barrosjunior26/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/barrosjunior26/barrosjunior26/output/pacman-contribution-graph.svg">
 </picture>
+
+###
